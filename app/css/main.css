@@ -1,0 +1,9 @@
+body {
+  font-size: 22pt; }
+
+body {
+  background-color: pink;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
